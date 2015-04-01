@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Git guide
 tagline:          'The starter guide for your student project'
-description:      'This Git guide is for students at Malmö högskola'
+description:      'A Git starter guide for students at Malmö högskola'
 url:              http://hyde.getpoole.com
 baseurl:          https://fhall.github.io/da336a/
 

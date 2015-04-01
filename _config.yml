@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Git guide
+tagline:          'The starter guide for your student project'
+description:      'This Git guide is for students at Malmö högskola'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://fhall.github.io/da336a
 
 author:
   name:           'Mark Otto'

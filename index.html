@@ -15,7 +15,7 @@ title: Home
     {% if node.title != null %}
         {% if node.layout == "page" %}
     <li>
-        <a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        <a class="{% if page.url == node.url %} active {% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
     </li>
         {% endif %}
     {% endif %}

@@ -31,8 +31,8 @@ When a conflict message appears it tells you that you need to integrate the remo
 remote: Counting objects: 12, done.
 [...]
    5303a6e..2e70709  master     -> origin/master
-Auto-merging <b>&lt;file&gt;</b>
-CONFLICT (content): Merge conflict in <b>&lt;file&gt;</b>
+Auto-merging <file>
+CONFLICT (content): Merge conflict in <file>
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 

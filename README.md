@@ -20,3 +20,5 @@ pwd         // print working directory, shows what directory you're in
 cd <folder> // Enter a directory
 cd ..       // Go up a directory in the directory tree
 ```
+
+More to come...

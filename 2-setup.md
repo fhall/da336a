@@ -7,7 +7,7 @@ This section explains how to setup an account on GitHub and how to create and cl
 
 ## <a name="create-account"></a>Create an account
 
-The first thing you need to do is to create an account at GitHub. If you haven't done that already you can visit the https://github.com/[sign up page]. The sign up process is simple and a free account gives you unlimited public repositories. GitHub also has a free student account with five private repositories. To request a student acount visit https://education.github.com/discount_requests/new[GitHub education]
+The first thing you need to do is to create an account at GitHub. If you haven't done that already you can visit the [sign up page](https://github.com/). The sign up process is simple and a free account gives you unlimited public repositories. GitHub also has a free student account with five private repositories. To request a student acount visit [GitHub education](https://education.github.com/discount_requests/new)
 
 
 ## <a name="create-repo"></a>Create a repository
